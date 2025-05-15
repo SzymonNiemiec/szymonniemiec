@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9961F7&width=435&lines=Senior+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9961F7&width=435&lines=Senior+Developer)](https://git.io/typing-svg)
 
 ### ⚛️ About me
 
