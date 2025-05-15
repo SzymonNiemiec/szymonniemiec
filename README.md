@@ -4,7 +4,7 @@
 
 ### ⚛️ About me
 
-Senior Frontend Developer with a mission to create inclusive, high-quality web experiences. With expertise in React, Next.js, TypeScript, and Tailwind CSS, I’ve spent over 7 years building applications that are not only visually stunning but also accessible, performant, and easy to maintain.
+Senior Developer with a mission to create inclusive, high-quality web experiences. With expertise in React, Next.js, TypeScript, and Tailwind CSS, I’ve spent over 7 years building applications that are not only visually stunning but also accessible, performant, and easy to maintain.
 
 I believe that great software is built through teamwork, clear communication, and a shared commitment to excellence. Whether it’s leading frontend architecture discussions, optimizing performance, or advocating for best practices, I’m always focused on delivering value to both users and the business.
 
